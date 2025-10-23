@@ -72,7 +72,7 @@ button:hover{
     align-items: center;
     font-size: 24px;
     cursor: pointer;
-    transition: transform 0.3s, background-color 0.3s;
+    transition: transform 0.4s, background-color 0.4s;
     background-image: url('card_in.jpeg');
     background-size: cover;
     background-position: center;
